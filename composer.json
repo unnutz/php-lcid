@@ -1,0 +1,23 @@
+{
+    "name": "unnutz/php-lcid",
+    "description": "",
+    "authors": [
+        {
+            "name": "Artyom Sokolov",
+            "email": "artyom.sokolov@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "ext-intl": "~1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Unnutz\\PhpLcid\\": "src"
+        }
+    },
+    "minimum-stability": "stable"
+}
