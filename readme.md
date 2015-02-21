@@ -1,6 +1,7 @@
 # PHP-LCID
 
-![Travis-CI](https://travis-ci.org/unnutz/php-lcid.svg)
+![Travis-CI](https://travis-ci.org/unnutz/php-lcid.svg) [![Latest Stable Version](https://poser.pugx.org/unnutz/php-lcid/version.svg)](https://packagist.org/packages/unnutz/php-lcid) [![Total Downloads](https://poser.pugx.org/unnutz/php-lcid/downloads.svg)](https://packagist.org/packages/unnutz/php-lcid)
+
 
 This is a simple library that allows you to build correct LCID (Language Code Identifier) based on language, region, script values or locale.
 
